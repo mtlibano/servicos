@@ -1,4 +1,4 @@
-package com.github.mtlibano.model;
+package com.github.mtlibano.domain;
 
 import jakarta.persistence.*;
 import lombok.Data;
